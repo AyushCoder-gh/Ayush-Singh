@@ -1,0 +1,10 @@
+# Large binary/archive files
+video_frames_24fps_png.zip
+portfolio_design.jpg
+
+# Node modules
+node_modules/
+
+# OS files
+.DS_Store
+Thumbs.db

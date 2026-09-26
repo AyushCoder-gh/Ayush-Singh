@@ -1,0 +1,10 @@
+{
+  "name": "portfolio-scroll-animation",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Smooth scroll-based video frame sequence animation",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node server.js"
+  }
+}
